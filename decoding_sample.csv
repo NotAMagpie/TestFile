@@ -1,0 +1,7 @@
+code,description,seriousness
+P5421,system booted up,low
+F8963,new calibration saved,low
+E8372,device shutdown due to overheating,high
+A4587,lost communication with canbus,medium
+F5874,battery voltage critical,high
+C5412,manual calibration entry,low
